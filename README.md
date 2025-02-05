@@ -1,10 +1,21 @@
 # HACKERRANK-SQL
-P(R) represents a pattern drawn by Julia in R rows. The following pattern represents P(5):
+1 P(R) represents a pattern drawn by Julia in R rows. The following pattern represents P(5):
 ```
     * * * * *
     * * * * 
     * * * 
     * *
     * 
+```
+Write a query to print the pattern P(20).
+
+2 P(R) represents a pattern drawn by Julia in R rows. The following pattern represents P(5):
+
+```
+      *
+      * * 
+      * * * 
+      * * * * 
+      * * * * *
 ```
 Write a query to print the pattern P(20).
